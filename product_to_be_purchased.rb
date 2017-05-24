@@ -24,5 +24,5 @@ class Product
 end#Product
 
 # -- Test outputs --
-# tamagotchi = Product.new("Tamagotchi", 4.99)
+# tamagotchi = Product.new("Tamagotchi", 1299.99)
 # puts tamagotchi.total
